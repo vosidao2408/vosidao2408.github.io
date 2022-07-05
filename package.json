@@ -1,0 +1,22 @@
+{
+  "name": "study-beats-fm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joadd",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.15"
+  },
+  "dependencies": {
+    "framer-motion": "^6.0.0",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^6.2.2"
+  }
+}
