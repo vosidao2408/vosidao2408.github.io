@@ -18,7 +18,7 @@ const Hero = () => {
               overflow="hidden"
               playing={true}
               loop={true}
-              muted={false}
+              muted={true}
             />
           </div>
         </div>
