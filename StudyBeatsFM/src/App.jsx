@@ -143,13 +143,13 @@ function App() {
   };
 
   const StudyMD = () => {
-    setVideo("//www.youtube.com/embed/PcxpLIv4CNU?autoplay=1&mute=1&start=1");
+    setVideo("//www.youtube.com/watch?v=zamNv893kHI?autoplay=1&mute=1&start=1");
     setStationName("StudyMD");
     setYoutubeChannal(
-      "https://www.youtube.com/channel/UC5CRP-6oxYenIgBj17CkBZg"
+      "https://www.youtube.com/channel/UCyD59CI7beJDU493glZpxgAg"
     );
     setLivestream(
-      "https://www.youtube.com/watch?v=uxR_sTZnBtg&ab_channel=StudyMD"
+      "https://www.youtube.com/watch?v=zamNv893kHI"
     );
     playLiveStream(true);
     setPauseScreen("unpauseScreen");
